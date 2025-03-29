@@ -1,0 +1,4 @@
+astroid==2.15.8
+colorama==0.4.6
+pyyaml==6.0
+six==1.16.0
